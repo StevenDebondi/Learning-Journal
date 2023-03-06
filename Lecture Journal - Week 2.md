@@ -5,8 +5,11 @@
 **Learning Activities**
 ====================
 Watching Weekly Live Lecture / Online Meeting
+
 Watching Panopto Subject Video Library content
+
 Watching Resources given via Subject GitHub for Week 1 + Week 2 and took small quizzes on each part
+
 Learnt about ChatGPT
 
 **Resources/Links**
