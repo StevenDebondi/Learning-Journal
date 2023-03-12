@@ -5,7 +5,9 @@
 **Learning Activities**
 ====================
 Weekly Online Help session
+
 (Panopto content for week 3 is missing?)
+
 Getting Started with Joomla reading
 
 **Resources/Links**
