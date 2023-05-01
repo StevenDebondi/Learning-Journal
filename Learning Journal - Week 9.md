@@ -15,6 +15,8 @@ The test is to try recall information, or see how much better my notes are than 
 **Resources/Links**
 ================
 https://www.linkedin.com/learning/sass-essential-training/
+Watched about 30 minutes of the above before realizing there was a newer version as linked below
+https://www.linkedin.com/learning/sass-essential-training-15630917/
 
 **Estimated Hours**
 ================
