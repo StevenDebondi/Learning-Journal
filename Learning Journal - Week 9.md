@@ -5,6 +5,7 @@
 **Learning Activities**
 ====================
 LinkedIn learning course for Sass
+
 Weekly Panopto content
 
 My learning theory this week is to watch the videos without any other distractions, turning off my other monitors not being used for watching and taking notes and focusing on the content with 100% of my attention.
